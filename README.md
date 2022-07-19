@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 <br/><br/><br/><br/><br/>
 
 <p align="center">
-  :point_right: <a href="[https://www.w3schools.com](https://drprojects.github.io/drprojects)">Personal webpage</a> :point_left:
+  :point_right: <a href="https://drprojects.github.io/">Personal webpage</a> :point_left:
 </p>
