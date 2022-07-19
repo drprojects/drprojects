@@ -13,10 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 PhD student working on Deep Learning on 3D point clouds :cloud:
+# 👋 PhD student working on Deep Learning on point clouds :cloud:
 
-[![drprojects' GitHub stats](https://github-readme-stats.vercel.app/api?username=drprojects&hide=prs,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drprojects&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<div >
+<img src="https://github-readme-stats.vercel.app/api?username=drprojects&count_private=true&show_icons=true&hide=prs&theme=dracula" alt="logo" height="140" align="left" style="margin: 5px; margin-bottom: 20px;" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drprojects&layout=compact" alt="logo" height="140" align="right" style="margin-up: 50px; margin: 5px; margin-bottom: 20px;" /><br/>
+<div/>
+
+<br/><br/><br/><br/><br/>
 
 <p align="center">
-  :point_right: <a href="[https://www.w3schools.com](https://drprojects.github.io/drprojects)">Webpage</a> :point_left:
+  :point_right: <a href="[https://www.w3schools.com](https://drprojects.github.io/drprojects)">Personal webpage</a> :point_left:
 </p>
