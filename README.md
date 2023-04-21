@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 PhD student working on Deep Learning on point clouds :cloud:
-
+<h1 align="center">
+  👋 PhD student working on Deep Learning on point clouds ☁
+</h1>
 
 
 
@@ -26,6 +27,6 @@ Here are some ideas to get you started:
 
 <br/><br/><br/><br/><br/>
 
-<p align="center">
+<h2 align="center">
   :point_right: <a href="https://drprojects.github.io/">Personal webpage</a> :point_left:
-</p>
+</h2>
