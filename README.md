@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 <br/><br/><br/><br/><br/>
 
-<h2 align="center">
-  :point_right: <a href="https://drprojects.github.io/">Personal webpage</a> :point_left:
-</h2>
+<h1 align="center">
+  <a href="https://drprojects.github.io/">Personal webpage</a>
+</h1>
