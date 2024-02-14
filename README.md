@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  👋 PhD student working on Deep Learning on point clouds ☁
+  Deep Learning researcher working on 
+  <br/>
+  point clouds ☁️, images 🖼️, satellites 🛰️, and environment 🌲
 </h1>
 
-
+<br/>
 
 <div >
 <img src="https://github-readme-stats.vercel.app/api?username=drprojects&count_private=true&show_icons=true&hide=prs&theme=dracula" alt="logo" height="140" align="left" style="margin: 5px; margin-bottom: 20px;" />
@@ -25,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drprojects&layout=compact" alt="logo" height="140" align="right" style="margin-up: 50px; margin: 5px; margin-bottom: 20px;" /><br/>
 <div/>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <h1 align="center">
   <a href="https://drprojects.github.io/">Personal webpage</a>
