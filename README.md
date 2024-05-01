@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <br/>
 
 <div >
-<img src="https://github-readme-stats.vercel.app/api?username=drprojects&count_private=true&show_icons=true&hide=prs&theme=dracula" alt="logo" height="140" align="left" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=drprojects&count_private=true&show_icons=true&hide=prs&theme=dracula&show=reviews&rank_icon=github" alt="logo" height="140" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drprojects&layout=compact" alt="logo" height="140" align="right" style="margin-up: 50px; margin: 5px; margin-bottom: 20px;" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drprojects&layout=donut-vertical" alt="logo" height="140" align="right" style="margin-up: 50px; margin: 5px; margin-bottom: 20px;" /><br/>
 <div/>
 
 <br/><br/><br/><br/>
